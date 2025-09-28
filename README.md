@@ -1,4 +1,4 @@
-# Avi's Cafe Ordering System 🍔☕
+
 
 A simple **C++ console-based ordering system** for a cafe.  
 Users can view menus (Burgers, Hot Dogs, Drinks), place multiple orders, and receive their total bill at the end.

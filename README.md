@@ -25,7 +25,7 @@ Users can view menus (Burgers, Hot Dogs, Drinks), place multiple orders, and rec
    git clone https://github.com/your-username/avis-cafe.git
    
 ## WELCOME TO AVI'S CAFE
-............please follow the below instructions..............
+............please follow the below instructions.............
 - step 1) : please enter the 'A' to See menu..
 - step 2) : you will get bill after your final order
 

@@ -13,7 +13,7 @@ Users can view menus (Burgers, Hot Dogs, Drinks), place multiple orders, and rec
   - 🥤 Drinks (Beer, Lassi, Soda)
 - Allows multiple items in a single order.
 - Calculates and displays the **total bill**.
-- Handles invalid inputs gracefully.
+- Handles invalid inputs gracefully
 
 ---
 

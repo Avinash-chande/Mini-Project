@@ -20,7 +20,7 @@ Users can view menus (Burgers, Hot Dogs, Drinks), place multiple orders, and rec
 ## 📂 Project Structure
 
 ## 🛠️ How to Run
-1. Clone this repository:
+1. Clone this repository:-
    ```bash
    git clone https://github.com/your-username/avis-cafe.git
    
